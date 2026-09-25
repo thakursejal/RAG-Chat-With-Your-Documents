@@ -1,6 +1,9 @@
 # 📚 Chat With Your Documents — RAG AI Assistant
 
 An AI-powered document question-answering application built using Retrieval-Augmented Generation (RAG), embeddings, ChromaDB and Hugging Face LLMs.
+## 🌐 Live Demo
+
+🚀 [Chat With Your Documents — Live App](https://rag-chat-with-your-documents.streamlit.app/)
 
 ## 🎯 Project Overview
 
